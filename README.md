@@ -3,7 +3,7 @@
 ---
 
 ### Visão Geral
-Este projeto é um sistema de macros para jogos, focado em melhorar a experiência do usuário com configurações personalizadas para controle de armas e sensibilidade do mouse. O projeto está em desenvolvimento e foi criado pelo autor JNESWP.
+Este projeto é um sistema de macros para jogos, focado em melhorar a experiência do usuário com configurações personalizadas para controle de armas e sensibilidade do mouse. O projeto está em desenvolvimento.
 
 ---
 
